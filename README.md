@@ -16,4 +16,20 @@ path_to_file = tf.keras.utils.get_file('shakespeare.txt', 'https://storage.googl
   print(text[:200])
   
   ```
-![out](D:\shinj\tmp\11111111.png)
+#### under is output
+#### 아래는 출력결과입니다
+
+>>>First Citizen:
+>>>Before we proceed any further, hear me speak.
+
+>>>All:
+>>>Speak, speak.
+
+>>>First Citizen:
+>>>You are all resolved rather to die than to famish?
+
+>>>All:
+>>>Resolved. resolved.
+
+>>>First Citizen:
+>>>First, you

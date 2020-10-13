@@ -5,13 +5,6 @@
 ###### Google Colaboratory에서 진행하기를 추천합니다.
 ---
   
-##### Point
-
-![444444444](https://user-images.githubusercontent.com/71945157/94942113-cc4ac580-0510-11eb-9744-a48f95d800b2.png)
-
-```python
-predictions = predictions / temperature
-```
 
 ###### temperature 가 낮을수록 예측 후보중 정확도가 높은 선택지에 가중치를 부여합니다
 
